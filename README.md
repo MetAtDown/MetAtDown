@@ -8,4 +8,5 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="30" width="40" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" />
 </div>

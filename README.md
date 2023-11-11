@@ -1,8 +1,13 @@
-<div>
-  <a href="https://github.com/metatdown">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metatdown&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<details close>
+<summary>:zap: GitHub Stats</summary>
+  <div>
+    <a href="https://github.com/metatdown">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=metatdown&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metatdown&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+  </div>
+</details>
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />

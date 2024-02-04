@@ -14,6 +14,8 @@
   <img align="center" height="30" width="40" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" />
 </div>
 <div align="right"> 
- 	<a href="https://www.kaggle.com/MetAtDown" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.datacamp.com/portfolio/MetAtDown" target="_blank"><img src="https://img.shields.io/badge/DataCamp-25a052?style=for-the-badge&logo=DataCamp&logoColor=black" target="_blank"></a>
   <a href="https://www.hackerrank.com/profile/MetAtDown" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
+     <a href="https://platform.stratascratch.com/user/MetAtDown" target="_blank"><img src="https://img.shields.io/badge/Scratch-4997d0?style=for-the-badge&logoColor=hex&label=Strata&labelColor=008080&color=grey" target="_blank"></a> 
+    <a href="https://leetcode.com/MetAtDown/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=orange" target="_blank"></a> 
 </div>
